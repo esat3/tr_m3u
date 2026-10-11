@@ -1,59 +1,60 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AHaber.tr@SD",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="DiyanetTV.tr@SD",Diyanet TV (1080p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DostTV.tr@SD",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+
 #EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr@SD",Kanal 7 (1080p) [Not 24/7]
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr@SD",Habertürk TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
 #EXTINF:-1 tvg-id="Kanal7.tr@SD",Kanal 7 (720p)
-https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr@SD",Kanal 7 Avrupa (720p) [Not 24/7]
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
 #EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
 #EXTINF:-1 tvg-id="MeltemTV.tr@SD",Meltem TV (1080p)
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SemerkandTV.tr@SD",Semerkand TV (1080p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr@SD",Show TV (1080p)
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
 #EXTINF:-1 tvg-id="StarTV.tr@SD",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel TV (576p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8
+
 #EXTINF:-1 tvg-id="TGRTHaber.tr@SD",TGRT Haber (720p)
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr@SD",TGRT Haber (360p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr@SD",TRT 2 (1440p) [Geo-blocked]
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr@SD",TRT 3 (720p)
-https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr@SD",TRT Muzik
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TRTMuzik.tr@SD",TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TurkHaberTV.tr@SD",TürkHaber (720p)
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.tr@SD",TV 8 (1080p) [Not 24/7]
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
 #EXTINF:-1 tvg-id="TV8.tr@SD",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="UlkeTV.tr@SD",Ulke TV
-http://217.174.229.138:8000/play/a0el
-#EXTINF:-1 tvg-id="ShowTurk.tr@SD",Show Turk (1080p)
-https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD",ATV Avrupa (576p)
-https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",TRT Belgesel (1080p)
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr@SD",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
